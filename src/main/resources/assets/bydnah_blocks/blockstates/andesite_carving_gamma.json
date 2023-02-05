@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bydnah_blocks:block/andesite_carving_gamma"
+    },
+    "facing=east": {
+      "model": "bydnah_blocks:block/andesite_carving_gamma",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bydnah_blocks:block/andesite_carving_gamma",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bydnah_blocks:block/andesite_carving_gamma",
+      "y": 270
+    }
+  }
+}
