@@ -240,39 +240,715 @@
       "locked_code": false,
       "registry_name": "stone_carving_delta",
       "path": "~/Blocks"
+    },
+    {
+      "name": "Jade",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jade"
+    },
+    {
+      "name": "JadeOre",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jade_ore"
+    },
+    {
+      "name": "JadeBlock",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jade_block"
+    },
+    {
+      "name": "JadeOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jade_ore_block_recipe"
+    },
+    {
+      "name": "JadeBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jade_block_ore_recipe"
+    },
+    {
+      "name": "JadeOreSmelting",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jade_ore_smelting"
+    },
+    {
+      "name": "GraniteCarvingBlank",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "granite_carving_blank",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "GraniteCarvings",
+      "type": "tag",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "granite_carvings",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RGraniteCarvingAlpha",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_granite_carving_alpha",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RGraniteCarvingBeta",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_granite_carving_beta",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RGraniteCarvingGamma",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_granite_carving_gamma",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RGraniteCarvingDelta",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_granite_carving_delta",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RAndesiteCarvingBlank",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_andesite_carving_blank",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RAndesiteCarvingAlpha",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_andesite_carving_alpha",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RAndesiteCarvingBeta",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_andesite_carving_beta",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RAndesiteCarvingGamme",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_andesite_carving_gamme",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RAndesiteCarvingDelta",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_andesite_carving_delta",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "AndesiteCarvings",
+      "type": "tag",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesite_carvings",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RDioriteCarvingBlank",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_diorite_carving_blank",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RDioriteCarvingAlpha",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_diorite_carving_alpha",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RDioriteCarvingBeta",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_diorite_carving_beta",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RDioriteCarvingGamma",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_diorite_carving_gamma",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RDioriteCarvingDelta",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_diorite_carving_delta",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "DioriteCarvings",
+      "type": "tag",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diorite_carvings",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RSandstoneCarvingBlank",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_sandstone_carving_blank",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RSandstoneCarvingAlpha",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_sandstone_carving_alpha",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RSandstoneCarvingBeta",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_sandstone_carving_beta",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RSandstoneCarvingGamma",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_sandstone_carving_gamma",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RSandstoneCarvingDelta",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_sandstone_carving_delta",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "SandstoneCarvings",
+      "type": "tag",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sandstone_carvings",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RStoneCarvingBlank",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_stone_carving_blank",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RStoneCarvingAlpha",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_stone_carving_alpha",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RStoneCarvingBeta",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_stone_carving_beta",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RStoneCarvingGamma",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_stone_carving_gamma",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RStoneCarvingDelta",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_stone_carving_delta",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "StoneCarvings",
+      "type": "tag",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_carvings",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "BlueJohn",
+      "type": "item",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_john"
+    },
+    {
+      "name": "BlueJohnOre",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_john_ore"
+    },
+    {
+      "name": "BlueJohnBlock",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_john_block"
+    },
+    {
+      "name": "BlueJohnOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_john_ore_block_recipe"
+    },
+    {
+      "name": "BlueJohnBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_john_block_ore_recipe"
+    },
+    {
+      "name": "BlueJohnOreSmelting",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_john_ore_smelting"
+    },
+    {
+      "name": "HazardGray",
+      "type": "block",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hazard_gray",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "HazardWhite",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hazard_white",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "HazardLightGray",
+      "type": "block",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hazard_light_gray",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "HazardBlack",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hazard_black",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "HazardPink",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hazard_pink",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "HazardRed",
+      "type": "block",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hazard_red",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "HazardMagenta",
+      "type": "block",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hazard_magenta",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "HazardOrange",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hazard_orange",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "HazardYellow",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hazard_yellow",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "HazardGreen",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hazard_green",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "HazardLime",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hazard_lime",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "HazardCyan",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hazard_cyan",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "HazardBlue",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hazard_blue",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "HazardLightBlue",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hazard_light_blue",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "HazardPurple",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hazard_purple",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "HazardBrown",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hazard_brown",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "RHazardWhite",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_hazard_white",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RHazardLightGray",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_hazard_light_gray",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RHazardGray",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_hazard_gray",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RHazardBlack",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_hazard_black",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RHazardPink",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_hazard_pink",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RHazardMagenta",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_hazard_magenta",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RHazardRed",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_hazard_red",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RHazardOrange",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_hazard_orange",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RHazardYellow",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_hazard_yellow",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RHazardLime",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_hazard_lime",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RHazardGreen",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_hazard_green",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RHazardLightBlue",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_hazard_light_blue",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RHazardBlue",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_hazard_blue",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RHazardCyan",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_hazard_cyan",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RHazardPurple",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_hazard_purple",
+      "path": "~/Recipe"
+    },
+    {
+      "name": "RHazardBrown",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_hazard_brown",
+      "path": "~/Recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.bydnah_blocks.sandstone_carving_alpha": "Sandstone Carving",
-      "block.bydnah_blocks.granite_carving_gamma": "Sandstone Carving",
-      "block.bydnah_blocks.sandstone_carving_gamma": "Sandstone Carving",
-      "block.bydnah_blocks.stone_carving_delta": "Sandstone Carving",
-      "block.bydnah_blocks.andesite_carving": "Sandstone Carving",
-      "block.bydnah_blocks.diorite_carving_beta": "Sandstone Carving",
-      "block.bydnah_blocks.stone_carving_beta": "Sandstone Carving",
-      "block.bydnah_blocks.stone_carving_gamma": "Sandstone Carving",
-      "block.bydnah_blocks.andesite_carving_alpha": "Sandstone Carving",
+      "block.bydnah_blocks.hazard_orange": "Hazard Gray",
+      "block.bydnah_blocks.granite_carving_gamma": "Granite Carving",
+      "block.bydnah_blocks.stone_carving_delta": "Stone Carving",
+      "block.bydnah_blocks.andesite_carving": "Andesite Carving",
+      "block.bydnah_blocks.stone_carving_beta": "Stone Carving",
+      "block.bydnah_blocks.hazard_cyan": "Hazard Gray",
+      "block.bydnah_blocks.hazard_light_gray": "Hazard Gray",
+      "block.bydnah_blocks.hazard_green": "Hazard Gray",
+      "block.bydnah_blocks.andesite_carving_alpha": "Andesite Carving",
       "itemGroup.tabbydnah_blocks": "Bydnah Blocks",
-      "block.bydnah_blocks.diorite_carving_delta": "Sandstone Carving",
-      "block.bydnah_blocks.stone_carving_alpha": "Sandstone Carving",
-      "block.bydnah_blocks.granite_carving_delta": "Sandstone Carving",
-      "block.bydnah_blocks.andesite_carving_beta": "Sandstone Carving",
-      "block.bydnah_blocks.granite_carving_alpha": "Sandstone Carving",
-      "block.bydnah_blocks.andesite_carving_delta": "Sandstone Carving",
-      "block.bydnah_blocks.sandstone_carving": "Sandstone Carving",
+      "block.bydnah_blocks.andesite_carving_beta": "Andesite Carving",
+      "block.bydnah_blocks.granite_carving_alpha": "Granite Carving",
+      "block.bydnah_blocks.jade_ore": "Jade Ore",
       "block.bydnah_blocks.sandstone_carving_delta": "Sandstone Carving",
-      "block.bydnah_blocks.diorite_carving_alpha": "Sandstone Carving",
-      "block.bydnah_blocks.stone_carving": "Sandstone Carving",
-      "block.bydnah_blocks.bydnah_block": "Bydnah Block",
-      "block.bydnah_blocks.andesite_carving_gamma": "Sandstone Carving",
-      "block.bydnah_blocks.granite_carving_beta": "Sandstone Carving",
-      "block.bydnah_blocks.granite_carving": "Sandstone Carving",
-      "block.bydnah_blocks.diorite_carving": "Sandstone Carving",
+      "block.bydnah_blocks.diorite_carving_alpha": "Diorite Carving",
+      "block.bydnah_blocks.hazard_pink": "Hazard Gray",
+      "block.bydnah_blocks.hazard_magenta": "Hazard Gray",
+      "block.bydnah_blocks.hazard_yellow": "Hazard Gray",
+      "block.bydnah_blocks.stone_carving": "Stone Carving",
+      "block.bydnah_blocks.blue_john_ore": "BlueJohn Ore",
+      "block.bydnah_blocks.hazard_red": "Hazard Gray",
+      "block.bydnah_blocks.andesite_carving_gamma": "Andesite Carving",
+      "block.bydnah_blocks.granite_carving": "Granite Carving",
+      "item.bydnah_blocks.jade": "Jade",
       "block.bydnah_blocks.sandstone_carving_beta": "Sandstone Carving",
-      "block.bydnah_blocks.diorite_carving_gamma": "Sandstone Carving"
+      "block.bydnah_blocks.diorite_carving_gamma": "Diorite Carving",
+      "block.bydnah_blocks.sandstone_carving_alpha": "Sandstone Carving",
+      "block.bydnah_blocks.sandstone_carving_gamma": "Sandstone Carving",
+      "block.bydnah_blocks.hazard_lime": "Hazard Gray",
+      "block.bydnah_blocks.hazard_blue": "Hazard Gray",
+      "block.bydnah_blocks.jade_block": "Block of Jade",
+      "block.bydnah_blocks.hazard_gray": "Hazard Gray",
+      "block.bydnah_blocks.diorite_carving_beta": "Diorite Carving",
+      "block.bydnah_blocks.stone_carving_gamma": "Stone Carving",
+      "block.bydnah_blocks.hazard_black": "Hazard Gray",
+      "block.bydnah_blocks.diorite_carving_delta": "Diorite Carving",
+      "block.bydnah_blocks.stone_carving_alpha": "Stone Carving",
+      "block.bydnah_blocks.granite_carving_delta": "Granite Carving",
+      "block.bydnah_blocks.hazard_white": "Hazard Gray",
+      "block.bydnah_blocks.andesite_carving_delta": "Andesite Carving",
+      "block.bydnah_blocks.sandstone_carving": "Sandstone Carving",
+      "block.bydnah_blocks.blue_john_block": "Block of Blue John",
+      "item.bydnah_blocks.blue_john": "Blue John  ",
+      "block.bydnah_blocks.hazard_brown": "Hazard Gray",
+      "block.bydnah_blocks.bydnah_block": "Bydnah Block",
+      "block.bydnah_blocks.granite_carving_beta": "Granite Carving",
+      "block.bydnah_blocks.hazard_purple": "Hazard Gray",
+      "block.bydnah_blocks.hazard_light_blue": "Hazard Gray",
+      "block.bydnah_blocks.diorite_carving": "Diorite Carving"
     }
   },
   "foldersRoot": {

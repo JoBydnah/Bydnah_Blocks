@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bydnah_blocks:blue_john_block"
+    }
+  ],
+  "result": {
+    "item": "bydnah_blocks:blue_john",
+    "count": 9
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "bydnah_blocks:jade"
+    },
+    "1": {
+      "item": "bydnah_blocks:jade"
+    },
+    "2": {
+      "item": "bydnah_blocks:jade"
+    },
+    "3": {
+      "item": "bydnah_blocks:jade"
+    },
+    "4": {
+      "item": "bydnah_blocks:jade"
+    },
+    "5": {
+      "item": "bydnah_blocks:jade"
+    },
+    "6": {
+      "item": "bydnah_blocks:jade"
+    },
+    "7": {
+      "item": "bydnah_blocks:jade"
+    },
+    "8": {
+      "item": "bydnah_blocks:jade"
+    }
+  },
+  "result": {
+    "item": "bydnah_blocks:jade_block",
+    "count": 1
+  }
+}

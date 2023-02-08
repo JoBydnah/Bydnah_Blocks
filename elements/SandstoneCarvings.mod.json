@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [
+      {
+        "value": "CUSTOM:GraniteCarving"
+      },
+      {
+        "value": "CUSTOM:GraniteCarvingAlpha"
+      },
+      {
+        "value": "CUSTOM:GraniteCarvingBeta"
+      },
+      {
+        "value": "CUSTOM:GraniteCarvingDelta"
+      },
+      {
+        "value": "CUSTOM:GraniteCarvingGamma"
+      }
+    ],
+    "blocks": [
+      {
+        "value": "CUSTOM:SandstoneCarving"
+      },
+      {
+        "value": "CUSTOM:SandstoneCarvingAlpha"
+      },
+      {
+        "value": "CUSTOM:SandstoneCarvingBeta"
+      },
+      {
+        "value": "CUSTOM:SandstoneCarvingGamma"
+      },
+      {
+        "value": "CUSTOM:SandstoneCarvingDelta"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "sandstone_carvings",
+    "namespace": "forge"
+  }
+}

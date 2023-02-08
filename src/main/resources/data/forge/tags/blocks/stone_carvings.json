@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "bydnah_blocks:stone_carving_delta",
+    "bydnah_blocks:stone_carving",
+    "bydnah_blocks:stone_carving_alpha",
+    "bydnah_blocks:stone_carving_gamma",
+    "bydnah_blocks:stone_carving_beta"
+  ]
+}

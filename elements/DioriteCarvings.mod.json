@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [
+      {
+        "value": "CUSTOM:GraniteCarving"
+      },
+      {
+        "value": "CUSTOM:GraniteCarvingAlpha"
+      },
+      {
+        "value": "CUSTOM:GraniteCarvingBeta"
+      },
+      {
+        "value": "CUSTOM:GraniteCarvingDelta"
+      },
+      {
+        "value": "CUSTOM:GraniteCarvingGamma"
+      }
+    ],
+    "blocks": [
+      {
+        "value": "CUSTOM:DioriteCarving"
+      },
+      {
+        "value": "CUSTOM:DioriteCarvingAlpha"
+      },
+      {
+        "value": "CUSTOM:DioriteCarvingBeta"
+      },
+      {
+        "value": "CUSTOM:DioriteCarvingGamma"
+      },
+      {
+        "value": "CUSTOM:DioriteCarvingDelta"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "diorite_carvings",
+    "namespace": "forge"
+  }
+}

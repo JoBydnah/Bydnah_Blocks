@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "bydnah_blocks:andesite_carving_gamma",
+    "bydnah_blocks:andesite_carving",
+    "bydnah_blocks:andesite_carving_beta",
+    "bydnah_blocks:andesite_carving_delta",
+    "bydnah_blocks:andesite_carving_alpha"
+  ]
+}

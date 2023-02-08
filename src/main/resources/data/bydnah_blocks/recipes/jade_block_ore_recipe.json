@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bydnah_blocks:jade_block"
+    }
+  ],
+  "result": {
+    "item": "bydnah_blocks:jade",
+    "count": 9
+  }
+}

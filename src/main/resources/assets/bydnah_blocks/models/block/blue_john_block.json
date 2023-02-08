@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bydnah_blocks:blocks/bluejohn_ore_block",
+    "particle": "bydnah_blocks:blocks/bluejohn_ore_block"
+  }
+}
