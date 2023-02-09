@@ -5,10 +5,10 @@
     "renderType": 0,
     "texture": "bluejohn_gem",
     "customModelName": "Normal",
-    "name": "BlueJohn",
+    "name": "Blue John Crystal",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:BydnahBlocks"
     },
     "stackSize": 64,
     "enchantability": 0,
