@@ -5,19 +5,18 @@ import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.item.Rarity;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.block.BlockState;
 
 import net.mcreator.bydnahblocks.BydnahBlocksModElements;
 
 @BydnahBlocksModElements.ModElement.Tag
-public class JadeItem extends BydnahBlocksModElements.ModElement {
-	@ObjectHolder("bydnah_blocks:jade")
+public class BydnahLogoItem extends BydnahBlocksModElements.ModElement {
+	@ObjectHolder("bydnah_blocks:bydnah_logo")
 	public static final Item block = null;
 
-	public JadeItem(BydnahBlocksModElements instance) {
-		super(instance, 52);
+	public BydnahLogoItem(BydnahBlocksModElements instance) {
+		super(instance, 112);
 	}
 
 	@Override
@@ -27,8 +26,8 @@ public class JadeItem extends BydnahBlocksModElements.ModElement {
 
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64).rarity(Rarity.COMMON));
-			setRegistryName("jade");
+			super(new Item.Properties().group(null).maxStackSize(64).rarity(Rarity.EPIC));
+			setRegistryName("bydnah_logo");
 		}
 
 		@Override

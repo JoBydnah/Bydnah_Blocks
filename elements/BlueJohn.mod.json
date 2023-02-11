@@ -1,5 +1,5 @@
 {
-  "_fv": 34,
+  "_fv": 38,
   "_type": "item",
   "definition": {
     "renderType": 0,
@@ -8,7 +8,7 @@
     "name": "Blue John Crystal",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "CUSTOM:BydnahBlocks"
+      "value": "MISC"
     },
     "stackSize": 64,
     "enchantability": 0,

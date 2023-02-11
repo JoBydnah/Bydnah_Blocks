@@ -3,12 +3,12 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "jade_gem",
+    "texture": "bydnah_tab_64",
     "customModelName": "Normal",
-    "name": "Jade",
-    "rarity": "COMMON",
+    "name": "Bydnah Logo",
+    "rarity": "EPIC",
     "creativeTab": {
-      "value": "MISC"
+      "value": "No creative tab entry"
     },
     "stackSize": 64,
     "enchantability": 0,

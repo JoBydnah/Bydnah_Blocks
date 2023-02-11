@@ -8,6 +8,7 @@ version="1.0.0"
 displayName="Bydnah Blocks"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
+logoFile="logo.png"
 authors="jphan, MCreator"
 
 [[dependencies.bydnah_blocks]]
@@ -19,4 +20,16 @@ authors="jphan, MCreator"
 
 
 
+[[dependencies.bydnah_blocks]]
+    modId="curios_api"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.bydnah_blocks]]
+    modId="ctm"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
 

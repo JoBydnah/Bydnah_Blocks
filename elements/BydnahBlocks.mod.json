@@ -1,10 +1,10 @@
 {
-  "_fv": 34,
+  "_fv": 38,
   "_type": "tab",
   "definition": {
     "name": "Bydnah Blocks",
     "icon": {
-      "value": "CUSTOM:BydnahBlock"
+      "value": "CUSTOM:BydnahLogo"
     },
     "showSearch": true
   }

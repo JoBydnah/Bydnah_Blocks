@@ -2,9 +2,9 @@
   "mappings": {
     "default": {
       "map": {
-        "side": "",
-        "top": "",
-        "plant": ""
+        "side": "azalea_side",
+        "top": "azalea_top",
+        "plant": "azalea_plant"
       },
       "name": "default"
     }

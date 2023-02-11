@@ -1,0 +1,14 @@
+{
+  "_fv": 38,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "impermeable",
+    "namespace": "minecraft"
+  }
+}

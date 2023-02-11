@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "bydnah_blocks:blocks/10",
-    "particle": "bydnah_blocks:blocks/10"
-  }
-}
