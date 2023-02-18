@@ -1,0 +1,8 @@
+{
+  "parent": "bydnah_blocks:custom/bench",
+  "textures": {
+    "all": "bydnah_blocks:blocks/worktable",
+    "particle": "bydnah_blocks:blocks/worktable",
+    "1": "bydnah_blocks:blocks/worktable"
+  }
+}

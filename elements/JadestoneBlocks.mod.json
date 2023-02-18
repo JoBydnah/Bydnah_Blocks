@@ -1,0 +1,45 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:JadestoneCobble"
+      },
+      {
+        "value": "CUSTOM:Jadestone"
+      },
+      {
+        "value": "CUSTOM:JadestoneBricks"
+      },
+      {
+        "value": "CUSTOM:JadestoneBricksMossy"
+      },
+      {
+        "value": "CUSTOM:JadestoneMossycobble"
+      },
+      {
+        "value": "CUSTOM:JadestoneCarving"
+      },
+      {
+        "value": "CUSTOM:JadestoneCarvingAlpha"
+      },
+      {
+        "value": "CUSTOM:JadestoneCarvingBeta"
+      },
+      {
+        "value": "CUSTOM:JadestoneCarvingGamma"
+      },
+      {
+        "value": "CUSTOM:JadestoneCarvingDelta"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "jadestone_blocks",
+    "namespace": "forge"
+  }
+}

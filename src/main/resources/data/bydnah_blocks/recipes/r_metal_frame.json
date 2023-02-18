@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:steel_ingot"
+    },
+    "1": {
+      "tag": "forge:steel_ingot"
+    },
+    "2": {
+      "tag": "forge:steel_ingot"
+    },
+    "3": {
+      "tag": "forge:steel_ingot"
+    },
+    "5": {
+      "tag": "forge:steel_ingot"
+    },
+    "6": {
+      "tag": "forge:steel_ingot"
+    },
+    "7": {
+      "tag": "forge:steel_ingot"
+    },
+    "8": {
+      "tag": "forge:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "bydnah_blocks:metal_frame",
+    "count": 1
+  }
+}

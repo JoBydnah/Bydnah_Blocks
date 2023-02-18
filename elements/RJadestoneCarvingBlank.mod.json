@@ -1,0 +1,20 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:Jadestone"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:JadestoneCarving"
+    },
+    "name": "r_jadestone_carving_blank",
+    "namespace": "mod"
+  }
+}

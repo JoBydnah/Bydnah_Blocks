@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "bydnah_blocks:jadestone_carving_delta",
+    "bydnah_blocks:jadestone_carving_alpha",
+    "bydnah_blocks:jadestone_carving_beta",
+    "bydnah_blocks:jadestone_cobble",
+    "bydnah_blocks:jadestone_carving_gamma",
+    "bydnah_blocks:jadestone_bricks",
+    "bydnah_blocks:jadestone_bricks_mossy",
+    "bydnah_blocks:jadestone_mossycobble",
+    "bydnah_blocks:jadestone_carving",
+    "bydnah_blocks:jadestone"
+  ]
+}

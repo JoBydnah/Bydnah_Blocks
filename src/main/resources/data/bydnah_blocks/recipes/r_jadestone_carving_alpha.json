@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "bydnah_blocks:jadestone"
+  },
+  "result": "bydnah_blocks:jadestone_carving_alpha"
+}

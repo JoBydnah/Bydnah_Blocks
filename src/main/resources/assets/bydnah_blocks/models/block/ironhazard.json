@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/iron_hazard",
+    "up": "bydnah_blocks:blocks/iron_hazard",
+    "north": "bydnah_blocks:blocks/iron_hazard",
+    "east": "bydnah_blocks:blocks/iron_hazard",
+    "south": "bydnah_blocks:blocks/iron_hazard",
+    "west": "bydnah_blocks:blocks/iron_hazard",
+    "particle": "bydnah_blocks:blocks/iron_hazard"
+  }
+}

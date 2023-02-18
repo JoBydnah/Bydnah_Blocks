@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "tag": "forge:sandstone"
+  },
+  "result": "bydnah_blocks:jaded_sandstone_bricks"
+}

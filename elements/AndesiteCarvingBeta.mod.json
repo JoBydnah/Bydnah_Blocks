@@ -1,5 +1,5 @@
 {
-  "_fv": 38,
+  "_fv": 34,
   "_type": "block",
   "definition": {
     "texture": "andesite_raw",
@@ -99,7 +99,9 @@
     "luminance": 0,
     "unbreakable": false,
     "breakHarvestLevel": 1,
-    "isBonemealable": false,
+    "spawnParticles": false,
+    "particleSpawningRadious": 0.0,
+    "particleAmount": 0,
     "hasInventory": false,
     "guiBoundTo": "<NONE>",
     "openGUIOnRightClick": false,

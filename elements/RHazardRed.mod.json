@@ -1,5 +1,5 @@
 {
-  "_fv": 38,
+  "_fv": 34,
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
@@ -10,7 +10,7 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": "Blocks.IRON_BLOCK"
+        "value": "TAG:forge:metalhazards"
       },
       {
         "value": "CUSTOM:HazardRed"

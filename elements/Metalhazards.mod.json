@@ -1,0 +1,33 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Ironhazard"
+      },
+      {
+        "value": "CUSTOM:Copperhazard"
+      },
+      {
+        "value": "CUSTOM:Goldhazard"
+      },
+      {
+        "value": "CUSTOM:Cobalthazard"
+      },
+      {
+        "value": "CUSTOM:Steelhazard"
+      },
+      {
+        "value": "CUSTOM:Tinhazard"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "metalhazards",
+    "namespace": "forge"
+  }
+}

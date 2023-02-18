@@ -16,7 +16,7 @@ public class BydnahLogoItem extends BydnahBlocksModElements.ModElement {
 	public static final Item block = null;
 
 	public BydnahLogoItem(BydnahBlocksModElements instance) {
-		super(instance, 112);
+		super(instance, 111);
 	}
 
 	@Override

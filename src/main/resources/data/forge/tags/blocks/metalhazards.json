@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "bydnah_blocks:steelhazard",
+    "bydnah_blocks:tinhazard",
+    "bydnah_blocks:cobalthazard",
+    "bydnah_blocks:copperhazard",
+    "bydnah_blocks:goldhazard",
+    "bydnah_blocks:ironhazard"
+  ]
+}

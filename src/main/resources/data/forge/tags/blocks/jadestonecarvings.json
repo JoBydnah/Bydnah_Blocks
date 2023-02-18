@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "bydnah_blocks:jadestone_jade_ore",
+    "bydnah_blocks:jadestone_cobble",
+    "bydnah_blocks:jadestone_bricks_mossy",
+    "bydnah_blocks:jadestone_bricks",
+    "bydnah_blocks:jadestone"
+  ]
+}
