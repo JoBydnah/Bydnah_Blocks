@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/metal_light_purple",
+    "up": "bydnah_blocks:blocks/metal_light_purple",
+    "north": "bydnah_blocks:blocks/metal_light_purple",
+    "east": "bydnah_blocks:blocks/metal_light_purple",
+    "south": "bydnah_blocks:blocks/metal_light_purple",
+    "west": "bydnah_blocks:blocks/metal_light_purple",
+    "particle": "bydnah_blocks:blocks/metal_light_purple"
+  }
+}

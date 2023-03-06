@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/darkoak_clean",
+    "up": "bydnah_blocks:blocks/darkoak_clean",
+    "north": "bydnah_blocks:blocks/darkoak_clean",
+    "east": "bydnah_blocks:blocks/darkoak_clean",
+    "south": "bydnah_blocks:blocks/darkoak_clean",
+    "west": "bydnah_blocks:blocks/darkoak_clean",
+    "particle": "bydnah_blocks:blocks/darkoak_clean"
+  }
+}

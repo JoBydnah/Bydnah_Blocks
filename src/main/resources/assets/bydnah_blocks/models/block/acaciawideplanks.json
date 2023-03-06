@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/acacia_wideplanks",
+    "up": "bydnah_blocks:blocks/acacia_wideplanks",
+    "north": "bydnah_blocks:blocks/acacia_wideplanks",
+    "east": "bydnah_blocks:blocks/acacia_wideplanks",
+    "south": "bydnah_blocks:blocks/acacia_wideplanks",
+    "west": "bydnah_blocks:blocks/acacia_wideplanks",
+    "particle": "bydnah_blocks:blocks/acacia_wideplanks"
+  }
+}

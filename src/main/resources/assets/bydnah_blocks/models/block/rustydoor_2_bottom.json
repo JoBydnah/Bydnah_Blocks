@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "bydnah_blocks:blocks/door_rusy_2lower",
+    "top": "bydnah_blocks:blocks/door_rusy_2upperr"
+  }
+}

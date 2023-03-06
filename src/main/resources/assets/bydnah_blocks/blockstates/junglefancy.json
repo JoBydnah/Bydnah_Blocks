@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bydnah_blocks:block/junglefancy"
+    },
+    "facing=east": {
+      "model": "bydnah_blocks:block/junglefancy",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bydnah_blocks:block/junglefancy",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bydnah_blocks:block/junglefancy",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "bydnah_blocks:block/junglefancy",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "bydnah_blocks:block/junglefancy",
+      "x": 90
+    }
+  }
+}

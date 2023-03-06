@@ -1,0 +1,9 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type": "ctm",
+        "textures": [
+            "bydnah_blocks:blocks/reinforced_plating_white-ctm"
+        ]
+    }
+}

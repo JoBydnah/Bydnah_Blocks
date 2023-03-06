@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/birch_clean",
+    "up": "bydnah_blocks:blocks/birch_clean",
+    "north": "bydnah_blocks:blocks/birch_clean",
+    "east": "bydnah_blocks:blocks/birch_clean",
+    "south": "bydnah_blocks:blocks/birch_clean",
+    "west": "bydnah_blocks:blocks/birch_clean",
+    "particle": "bydnah_blocks:blocks/birch_clean"
+  }
+}

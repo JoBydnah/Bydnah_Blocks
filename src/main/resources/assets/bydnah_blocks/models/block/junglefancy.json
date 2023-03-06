@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/jungle_fancy",
+    "up": "bydnah_blocks:blocks/jungle_fancy",
+    "north": "bydnah_blocks:blocks/jungle_fancy",
+    "east": "bydnah_blocks:blocks/jungle_fancy",
+    "south": "bydnah_blocks:blocks/jungle_fancy",
+    "west": "bydnah_blocks:blocks/jungle_fancy",
+    "particle": "bydnah_blocks:blocks/jungle_fancy"
+  }
+}

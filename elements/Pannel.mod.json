@@ -2,7 +2,7 @@
   "_fv": 34,
   "_type": "block",
   "definition": {
-    "texture": "panel",
+    "texture": "reinforced_white",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -26,7 +26,7 @@
       {
         "mx": 0.0,
         "my": 0.0,
-        "mz": 0.0,
+        "mz": 15.5,
         "Mx": 16.0,
         "My": 16.0,
         "Mz": 16.0,

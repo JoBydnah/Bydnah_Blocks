@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bydnah_blocks:block/sprucepanel"
+    },
+    "facing=east": {
+      "model": "bydnah_blocks:block/sprucepanel",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bydnah_blocks:block/sprucepanel",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bydnah_blocks:block/sprucepanel",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "bydnah_blocks:block/sprucepanel",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "bydnah_blocks:block/sprucepanel",
+      "x": 90
+    }
+  }
+}

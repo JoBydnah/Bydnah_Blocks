@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bydnah_blocks:block/birchwideplanks"
+    },
+    "facing=east": {
+      "model": "bydnah_blocks:block/birchwideplanks",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bydnah_blocks:block/birchwideplanks",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bydnah_blocks:block/birchwideplanks",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "bydnah_blocks:block/birchwideplanks",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "bydnah_blocks:block/birchwideplanks",
+      "x": 90
+    }
+  }
+}

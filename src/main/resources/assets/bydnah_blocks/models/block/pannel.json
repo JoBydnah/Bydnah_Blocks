@@ -1,8 +1,8 @@
 {
   "parent": "bydnah_blocks:custom/panel",
   "textures": {
-    "all": "bydnah_blocks:blocks/panel",
-    "particle": "bydnah_blocks:blocks/panel",
+    "all": "bydnah_blocks:blocks/reinforced_white",
+    "particle": "bydnah_blocks:blocks/reinforced_white",
     "0": "bydnah_blocks:blocks/panel"
   }
 }

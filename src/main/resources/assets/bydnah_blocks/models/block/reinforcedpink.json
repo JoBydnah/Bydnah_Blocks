@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/reinforced_pink",
+    "up": "bydnah_blocks:blocks/reinforced_pink",
+    "north": "bydnah_blocks:blocks/reinforced_pink",
+    "east": "bydnah_blocks:blocks/reinforced_pink",
+    "south": "bydnah_blocks:blocks/reinforced_pink",
+    "west": "bydnah_blocks:blocks/reinforced_pink",
+    "particle": "bydnah_blocks:blocks/reinforced_pink"
+  }
+}

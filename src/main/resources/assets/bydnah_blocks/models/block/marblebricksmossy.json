@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/marble_bricks_mossy",
+    "up": "bydnah_blocks:blocks/marble_bricks_mossy",
+    "north": "bydnah_blocks:blocks/marble_bricks_mossy",
+    "east": "bydnah_blocks:blocks/marble_bricks_mossy",
+    "south": "bydnah_blocks:blocks/marble_bricks_mossy",
+    "west": "bydnah_blocks:blocks/marble_bricks_mossy",
+    "particle": "bydnah_blocks:blocks/marble_bricks_mossy"
+  }
+}

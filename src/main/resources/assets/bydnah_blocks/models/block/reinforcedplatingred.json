@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/reinforced_plating_red",
+    "up": "bydnah_blocks:blocks/reinforced_plating_red",
+    "north": "bydnah_blocks:blocks/reinforced_plating_red",
+    "east": "bydnah_blocks:blocks/reinforced_plating_red",
+    "south": "bydnah_blocks:blocks/reinforced_plating_red",
+    "west": "bydnah_blocks:blocks/reinforced_plating_red",
+    "particle": "bydnah_blocks:blocks/reinforced_plating_red"
+  }
+}
