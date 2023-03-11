@@ -1,7 +1,0 @@
-{
-  "parent": "block/template_orientable_trapdoor_top",
-  "textures": {
-    "texture": "bydnah_blocks:blocks/steelrapdor",
-    "particle": "bydnah_blocks:blocks/steelrapdor"
-  }
-}

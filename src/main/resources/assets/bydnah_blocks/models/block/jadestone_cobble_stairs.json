@@ -1,8 +1,0 @@
-{
-  "parent": "block/stairs",
-  "textures": {
-    "bottom": "bydnah_blocks:blocks/jadestone_cobble",
-    "top": "bydnah_blocks:blocks/jadestone_cobble",
-    "side": "bydnah_blocks:blocks/jadestone_cobble"
-  }
-}

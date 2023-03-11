@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_bottom_top",
-  "textures": {
-    "bottom": "bydnah_blocks:blocks/jadestone_bricks",
-    "top": "bydnah_blocks:blocks/jadestone_bricks",
-    "side": "bydnah_blocks:blocks/jadestone_bricks"
-  }
-}

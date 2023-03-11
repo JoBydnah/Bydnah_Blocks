@@ -1,7 +1,0 @@
-{
-  "parent": "block/door_top_rh",
-  "textures": {
-    "bottom": "bydnah_blocks:blocks/sliding_door_iron_lower",
-    "top": "bydnah_blocks:blocks/sliding_door_iron_upper"
-  }
-}

@@ -226,20 +226,6 @@
       "path": "~/Blocks"
     },
     {
-      "name": "Jade",
-      "type": "item",
-      "sortid": 50,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "jade",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/bydnah_blocks/models/item/jade.json",
-          "src/main/java/net/mcreator/bydnahblocks/item/JadeItem.java"
-        ]
-      }
-    },
-    {
       "name": "JadeOre",
       "type": "block",
       "sortid": 52,
@@ -713,20 +699,6 @@
         ]
       },
       "path": "~/Recipe"
-    },
-    {
-      "name": "BlueJohn",
-      "type": "item",
-      "sortid": 47,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "blue_john",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/bydnah_blocks/models/item/blue_john.json",
-          "src/main/java/net/mcreator/bydnahblocks/item/BlueJohnItem.java"
-        ]
-      }
     },
     {
       "name": "BlueJohnOre",
@@ -1334,7 +1306,13 @@
       "sortid": 115,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "metalworking"
+      "registry_name": "metalworking",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bydnahblocks/gui/MetalworkingGui.java",
+          "src/main/java/net/mcreator/bydnahblocks/gui/MetalworkingGuiWindow.java"
+        ]
+      }
     },
     {
       "name": "MetalworkingBench",
@@ -1369,6 +1347,11 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_sandstone_cobble",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bydnah_blocks/recipes/r_sandstone_cobble.json"
+        ]
+      },
       "path": "~/Recipe"
     },
     {
@@ -1387,6 +1370,11 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_sandstone_bricks_cracked",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bydnah_blocks/recipes/r_sandstone_bricks_cracked.json"
+        ]
+      },
       "path": "~/Recipe"
     },
     {
@@ -1404,6 +1392,11 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_jaded_sandstone_bricks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bydnah_blocks/recipes/r_jaded_sandstone_bricks.json"
+        ]
+      },
       "path": "~/Recipe"
     },
     {
@@ -1423,7 +1416,7 @@
       "registry_name": "jadestone_jade_oresmelting",
       "metadata": {
         "files": [
-          "src/main/resources/data/bydnah_blocks/recipes/jade_ore_smelting.json"
+          "src/main/resources/data/bydnah_blocks/recipes/jadestone_jade_oresmelting.json"
         ]
       }
     },
@@ -1526,7 +1519,7 @@
       "registry_name": "r_jadestone_carving_alpha",
       "metadata": {
         "files": [
-          "src/main/resources/data/bydnah_blocks/recipes/r_sandstone_carving_alpha.json"
+          "src/main/resources/data/bydnah_blocks/recipes/r_jadestone_carving_alpha.json"
         ]
       },
       "path": "~/Recipe"
@@ -1540,7 +1533,7 @@
       "registry_name": "r_jadestone_carving_beta",
       "metadata": {
         "files": [
-          "src/main/resources/data/bydnah_blocks/recipes/r_sandstone_carving_beta.json"
+          "src/main/resources/data/bydnah_blocks/recipes/r_jadestone_carving_beta.json"
         ]
       },
       "path": "~/Recipe"
@@ -1554,7 +1547,7 @@
       "registry_name": "r_jadestone_carving_blank",
       "metadata": {
         "files": [
-          "src/main/resources/data/bydnah_blocks/recipes/r_sandstone_carving_blank.json"
+          "src/main/resources/data/bydnah_blocks/recipes/r_jadestone_carving_blank.json"
         ]
       },
       "path": "~/Recipe"
@@ -1568,7 +1561,7 @@
       "registry_name": "r_jadestone_carving_delta",
       "metadata": {
         "files": [
-          "src/main/resources/data/bydnah_blocks/recipes/r_sandstone_carving_delta.json"
+          "src/main/resources/data/bydnah_blocks/recipes/r_jadestone_carving_delta.json"
         ]
       },
       "path": "~/Recipe"
@@ -1582,7 +1575,7 @@
       "registry_name": "r_jadestone_carving_gamma",
       "metadata": {
         "files": [
-          "src/main/resources/data/bydnah_blocks/recipes/r_sandstone_carving_gamma.json"
+          "src/main/resources/data/bydnah_blocks/recipes/r_jadestone_carving_gamma.json"
         ]
       },
       "path": "~/Recipe"
@@ -1594,6 +1587,11 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "jadestonecarvings",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/blocks/jadestonecarvings.json"
+        ]
+      },
       "path": "~/Recipe"
     },
     {
@@ -1603,6 +1601,11 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "jadestone_blocks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/blocks/jadestone_blocks.json"
+        ]
+      },
       "path": "~/Recipe"
     },
     {
@@ -1669,21 +1672,17 @@
       "path": "~/Blocks/Metal"
     },
     {
-      "name": "SteelIngot",
-      "type": "item",
-      "sortid": 150,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "steel_ingot",
-      "path": "~/Items"
-    },
-    {
       "name": "RSteelIngot",
       "type": "recipe",
       "sortid": 151,
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_steel_ingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bydnah_blocks/recipes/r_steel_ingot.json"
+        ]
+      },
       "path": "~/Recipe"
     },
     {
@@ -1693,6 +1692,11 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "ingotssteel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/steel_ingot.json"
+        ]
+      },
       "path": "~/Recipe"
     },
     {
@@ -1702,6 +1706,11 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "r_metal_frame",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/bydnah_blocks/recipes/r_metal_frame.json"
+        ]
+      },
       "path": "~/Recipe"
     },
     {
@@ -2116,6 +2125,11 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "metalhazards",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/blocks/metalhazards.json"
+        ]
+      },
       "path": "~/Recipe"
     },
     {
@@ -4665,6 +4679,87 @@
       "locked_code": false,
       "registry_name": "dioritetwin",
       "path": "~/Blocks/Diorite"
+    },
+    {
+      "name": "Dioritemossycobble",
+      "type": "block",
+      "sortid": 486,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dioritemossycobble",
+      "path": "~/Blocks/Andesite"
+    },
+    {
+      "name": "Andesitemossycobble",
+      "type": "block",
+      "sortid": 487,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "andesitemossycobble",
+      "path": "~/Blocks/Andesite"
+    },
+    {
+      "name": "Granitemossycobble",
+      "type": "block",
+      "sortid": 488,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "granitemossycobble",
+      "path": "~/Blocks/Granite"
+    },
+    {
+      "name": "Marblemossycobble",
+      "type": "block",
+      "sortid": 489,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "marblemossycobble",
+      "path": "~/Blocks/Marble"
+    },
+    {
+      "name": "Jade",
+      "type": "item",
+      "sortid": 490,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bydnah_blocks/models/item/jade.json",
+          "src/main/java/net/mcreator/bydnahblocks/item/JadeItem.java"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "BlueJohn",
+      "type": "item",
+      "sortid": 491,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_john",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/bydnah_blocks/models/item/blue_john.json",
+          "src/main/java/net/mcreator/bydnahblocks/item/BlueJohnItem.java"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "SteelIngot",
+      "type": "item",
+      "sortid": 492,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_ingot",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/bydnahblocks/item/SteelIngotItem.java",
+          "src/main/resources/assets/bydnah_blocks/models/item/steel_ingot.json"
+        ]
+      },
+      "path": "~/Items"
     }
   ],
   "variable_elements": [],
@@ -4769,6 +4864,7 @@
       "block.bydnah_blocks.platinumcasing": "Platinumbolted",
       "itemGroup.tabbydnah_blocks": "Bydnah Blocks",
       "block.bydnah_blocks.metallightred": "Red Metal Lamp",
+      "block.bydnah_blocks.granitemossycobble": "Granitesmallbricks",
       "block.bydnah_blocks.granitetilessmall": "Granitesmallbricks",
       "block.bydnah_blocks.jungletwin": "Acacia Thick Beams",
       "block.bydnah_blocks.granite_carving_alpha": "Sandstone Carving",
@@ -4872,6 +4968,7 @@
       "block.bydnah_blocks.oakfancycrate": "Acacia Thick Beams",
       "block.bydnah_blocks.metallightmagenta": "Magenta Metal Lamp",
       "block.bydnah_blocks.sprucecrates": "Acacia Thick Beams",
+      "block.bydnah_blocks.dioritemossycobble": "Andesitesmallbricks",
       "block.bydnah_blocks.marblemozaic": "Marble",
       "block.bydnah_blocks.oaktwin": "Acacia Thick Beams",
       "block.bydnah_blocks.silvercrate": "Silverbolted",
@@ -4883,6 +4980,7 @@
       "block.bydnah_blocks.reinforcedplatingmagenta": "Reinforced Plating Magenta",
       "block.bydnah_blocks.copperhazard": "Copperbolted",
       "block.bydnah_blocks.darkoakuneven": "Acacia Thick Beams",
+      "block.bydnah_blocks.marblemossycobble": "Marble",
       "block.bydnah_blocks.reinforcedplatinggreen": "Reinforced Plating Green",
       "block.bydnah_blocks.granite_carving": "Sandstone Carving",
       "block.bydnah_blocks.birchshippingcrate": "Acacia Thick Beams",
@@ -4937,6 +5035,7 @@
       "block.bydnah_blocks.marbletilesmedium": "Marble",
       "block.bydnah_blocks.marbletwinchiseled": "Marble",
       "block.bydnah_blocks.birchfancycrate": "Acacia Thick Beams",
+      "block.bydnah_blocks.andesitemossycobble": "Andesitesmallbricks",
       "block.bydnah_blocks.hazard_yellow": "Hazard Gray",
       "block.bydnah_blocks.jadestoneredstoneore": "Jade Ore",
       "block.bydnah_blocks.spruceuneven": "Acacia Thick Beams",
@@ -4967,8 +5066,8 @@
       "block.bydnah_blocks.steelhazard": "Steelbolted",
       "block.bydnah_blocks.blue_john_block": "Block of BlueJohn",
       "block.bydnah_blocks.dioriteornatebricks": "Dioritesmallbricks",
-      "item.bydnah_blocks.blue_john": "Blue John Crystal",
       "block.bydnah_blocks.dioritesmallcrackedbricks": "Dioritesmallbricks",
+      "item.bydnah_blocks.blue_john": "Blue John",
       "block.bydnah_blocks.redsandstonecarvingdelta": "Sandstone Carving",
       "block.bydnah_blocks.acaciafancycrate": "Acacia Thick Beams",
       "block.bydnah_blocks.marblecarving": "Marble",
@@ -5229,5 +5328,5 @@
     "modElementsPackage": "net.mcreator.bydnahblocks",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202200348217
+  "mcreatorVersion": 202300110610
 }

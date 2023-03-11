@@ -43,8 +43,7 @@ import java.util.function.Supplier;
 public class BydnahBlocksMod {
 	public static final Logger LOGGER = LogManager.getLogger(BydnahBlocksMod.class);
 	private static final String PROTOCOL_VERSION = "1";
-	public static final SimpleChannel PACKET_HANDLER = NetworkRegistry.newSimpleChannel(new ResourceLocation("bydnah_blocks", "bydnah_blocks"),
-			() -> PROTOCOL_VERSION, PROTOCOL_VERSION::equals, PROTOCOL_VERSION::equals);
+	public static final SimpleChannel PACKET_HANDLER = NetworkRegistry.newSimpleChannel(new ResourceLocation("bydnah_blocks", "bydnah_blocks"), () -> PROTOCOL_VERSION, PROTOCOL_VERSION::equals, PROTOCOL_VERSION::equals);
 	public BydnahBlocksModElements elements;
 
 	public BydnahBlocksMod() {

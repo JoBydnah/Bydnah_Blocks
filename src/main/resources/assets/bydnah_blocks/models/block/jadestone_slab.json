@@ -1,8 +1,0 @@
-{
-  "parent": "block/slab",
-  "textures": {
-    "bottom": "bydnah_blocks:blocks/jadestone",
-    "top": "bydnah_blocks:blocks/jadestone",
-    "side": "bydnah_blocks:blocks/jadestone"
-  }
-}

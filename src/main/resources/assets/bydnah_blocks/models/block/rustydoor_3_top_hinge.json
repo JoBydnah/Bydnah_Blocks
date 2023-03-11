@@ -1,7 +1,0 @@
-{
-  "parent": "block/door_top_rh",
-  "textures": {
-    "bottom": "bydnah_blocks:blocks/door_rusy_3lower",
-    "top": "bydnah_blocks:blocks/door_rusy_3upper"
-  }
-}
