@@ -7,28 +7,28 @@
   ],
   "key": {
     "0": {
-      "tag": "forge:steel_ingot"
+      "tag": "ingots/steel"
     },
     "1": {
-      "tag": "forge:steel_ingot"
+      "tag": "ingots/steel"
     },
     "2": {
-      "tag": "forge:steel_ingot"
+      "tag": "ingots/steel"
     },
     "3": {
-      "tag": "forge:steel_ingot"
+      "tag": "ingots/steel"
     },
     "5": {
-      "tag": "forge:steel_ingot"
+      "tag": "ingots/steel"
     },
     "6": {
-      "tag": "forge:steel_ingot"
+      "tag": "ingots/steel"
     },
     "7": {
-      "tag": "forge:steel_ingot"
+      "tag": "ingots/steel"
     },
     "8": {
-      "tag": "forge:steel_ingot"
+      "tag": "ingots/steel"
     }
   },
   "result": {

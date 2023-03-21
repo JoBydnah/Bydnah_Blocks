@@ -17,7 +17,7 @@ public class SteelIngotItem extends BydnahBlocksModElements.ModElement {
 	public static final Item block = null;
 
 	public SteelIngotItem(BydnahBlocksModElements instance) {
-		super(instance, 492);
+		super(instance, 409);
 	}
 
 	@Override

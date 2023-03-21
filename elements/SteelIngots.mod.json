@@ -12,7 +12,7 @@
     "functions": [],
     "entities": [],
     "biomes": [],
-    "name": "steel_ingot",
+    "name": "ingots/steel",
     "namespace": "forge"
   }
 }

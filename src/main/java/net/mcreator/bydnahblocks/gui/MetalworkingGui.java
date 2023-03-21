@@ -34,7 +34,7 @@ public class MetalworkingGui extends BydnahBlocksModElements.ModElement {
 	private static ContainerType<GuiContainerMod> containerType = null;
 
 	public MetalworkingGui(BydnahBlocksModElements instance) {
-		super(instance, 115);
+		super(instance, 472);
 		elements.addNetworkMessage(ButtonPressedMessage.class, ButtonPressedMessage::buffer, ButtonPressedMessage::new, ButtonPressedMessage::handler);
 		elements.addNetworkMessage(GUISlotChangedMessage.class, GUISlotChangedMessage::buffer, GUISlotChangedMessage::new, GUISlotChangedMessage::handler);
 		containerType = new ContainerType<>(new GuiContainerModFactory());

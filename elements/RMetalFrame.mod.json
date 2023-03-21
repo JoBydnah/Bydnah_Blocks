@@ -10,31 +10,31 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "TAG:forge:steel_ingot"
+        "value": "TAG:ingots/steel"
       },
       {
-        "value": "TAG:forge:steel_ingot"
+        "value": "TAG:ingots/steel"
       },
       {
-        "value": "TAG:forge:steel_ingot"
+        "value": "TAG:ingots/steel"
       },
       {
-        "value": "TAG:forge:steel_ingot"
+        "value": "TAG:ingots/steel"
       },
       {
         "value": ""
       },
       {
-        "value": "TAG:forge:steel_ingot"
+        "value": "TAG:ingots/steel"
       },
       {
-        "value": "TAG:forge:steel_ingot"
+        "value": "TAG:ingots/steel"
       },
       {
-        "value": "TAG:forge:steel_ingot"
+        "value": "TAG:ingots/steel"
       },
       {
-        "value": "TAG:forge:steel_ingot"
+        "value": "TAG:ingots/steel"
       }
     ],
     "recipeReturnStack": {

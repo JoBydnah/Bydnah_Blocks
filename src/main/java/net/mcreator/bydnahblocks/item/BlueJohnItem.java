@@ -17,7 +17,7 @@ public class BlueJohnItem extends BydnahBlocksModElements.ModElement {
 	public static final Item block = null;
 
 	public BlueJohnItem(BydnahBlocksModElements instance) {
-		super(instance, 491);
+		super(instance, 408);
 	}
 
 	@Override

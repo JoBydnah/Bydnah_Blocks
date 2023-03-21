@@ -17,7 +17,7 @@ public class JadeItem extends BydnahBlocksModElements.ModElement {
 	public static final Item block = null;
 
 	public JadeItem(BydnahBlocksModElements instance) {
-		super(instance, 490);
+		super(instance, 407);
 	}
 
 	@Override
