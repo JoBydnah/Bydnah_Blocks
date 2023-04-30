@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/sandstone_panel",
+    "up": "bydnah_blocks:blocks/sandstone_panel",
+    "north": "bydnah_blocks:blocks/sandstone_panel",
+    "east": "bydnah_blocks:blocks/sandstone_panel",
+    "south": "bydnah_blocks:blocks/sandstone_panel",
+    "west": "bydnah_blocks:blocks/sandstone_panel",
+    "particle": "bydnah_blocks:blocks/sandstone_panel"
+  }
+}

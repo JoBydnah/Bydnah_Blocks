@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bydnah_blocks:block/birchcrates"
+    },
+    "facing=east": {
+      "model": "bydnah_blocks:block/birchcrates",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bydnah_blocks:block/birchcrates",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bydnah_blocks:block/birchcrates",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "bydnah_blocks:block/birchcrates",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "bydnah_blocks:block/birchcrates",
+      "x": 90
+    }
+  }
+}

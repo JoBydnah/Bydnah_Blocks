@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/marble",
+    "up": "bydnah_blocks:blocks/marble",
+    "north": "bydnah_blocks:blocks/marble",
+    "east": "bydnah_blocks:blocks/marble",
+    "south": "bydnah_blocks:blocks/marble",
+    "west": "bydnah_blocks:blocks/marble",
+    "particle": "bydnah_blocks:blocks/marble"
+  }
+}

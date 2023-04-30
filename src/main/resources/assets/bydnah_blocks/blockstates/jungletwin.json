@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bydnah_blocks:block/jungletwin"
+    },
+    "facing=east": {
+      "model": "bydnah_blocks:block/jungletwin",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bydnah_blocks:block/jungletwin",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bydnah_blocks:block/jungletwin",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "bydnah_blocks:block/jungletwin",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "bydnah_blocks:block/jungletwin",
+      "x": 90
+    }
+  }
+}

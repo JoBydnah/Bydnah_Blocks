@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bydnah_blocks:block/jungleshippingcrate"
+    },
+    "facing=east": {
+      "model": "bydnah_blocks:block/jungleshippingcrate",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bydnah_blocks:block/jungleshippingcrate",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bydnah_blocks:block/jungleshippingcrate",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "bydnah_blocks:block/jungleshippingcrate",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "bydnah_blocks:block/jungleshippingcrate",
+      "x": 90
+    }
+  }
+}

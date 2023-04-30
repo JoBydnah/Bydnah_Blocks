@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/iron_casing",
+    "up": "bydnah_blocks:blocks/iron_casing",
+    "north": "bydnah_blocks:blocks/iron_casing",
+    "east": "bydnah_blocks:blocks/iron_casing",
+    "south": "bydnah_blocks:blocks/iron_casing",
+    "west": "bydnah_blocks:blocks/iron_casing",
+    "particle": "bydnah_blocks:blocks/iron_casing"
+  }
+}

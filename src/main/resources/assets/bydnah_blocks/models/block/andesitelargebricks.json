@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/andesite_large_bricks",
+    "up": "bydnah_blocks:blocks/andesite_large_bricks",
+    "north": "bydnah_blocks:blocks/andesite_large_bricks",
+    "east": "bydnah_blocks:blocks/andesite_large_bricks",
+    "south": "bydnah_blocks:blocks/andesite_large_bricks",
+    "west": "bydnah_blocks:blocks/andesite_large_bricks",
+    "particle": "bydnah_blocks:blocks/andesite_large_bricks"
+  }
+}

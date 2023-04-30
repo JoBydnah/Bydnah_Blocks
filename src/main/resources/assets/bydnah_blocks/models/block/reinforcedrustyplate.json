@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/reinforced_rusty_plate",
+    "up": "bydnah_blocks:blocks/reinforced_rusty_plate",
+    "north": "bydnah_blocks:blocks/reinforced_rusty_plate",
+    "east": "bydnah_blocks:blocks/reinforced_rusty_plate",
+    "south": "bydnah_blocks:blocks/reinforced_rusty_plate",
+    "west": "bydnah_blocks:blocks/reinforced_rusty_plate",
+    "particle": "bydnah_blocks:blocks/reinforced_rusty_plate"
+  }
+}

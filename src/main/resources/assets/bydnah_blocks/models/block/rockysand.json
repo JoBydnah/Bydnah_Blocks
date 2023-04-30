@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/rocky_sand",
+    "up": "bydnah_blocks:blocks/rocky_sand",
+    "north": "bydnah_blocks:blocks/rocky_sand",
+    "east": "bydnah_blocks:blocks/rocky_sand",
+    "south": "bydnah_blocks:blocks/rocky_sand",
+    "west": "bydnah_blocks:blocks/rocky_sand",
+    "particle": "bydnah_blocks:blocks/rocky_sand"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/arid_sandstone_twin_top",
+    "up": "bydnah_blocks:blocks/arid_sandstone_twin_top",
+    "north": "bydnah_blocks:blocks/arid_sandstone_carving-blank",
+    "east": "bydnah_blocks:blocks/arid_sandstone_carving-blank",
+    "south": "bydnah_blocks:blocks/arid_sandstone_carving-blank",
+    "west": "bydnah_blocks:blocks/arid_sandstone_carving-blank",
+    "particle": "bydnah_blocks:blocks/arid_sandstone_twin_top"
+  }
+}

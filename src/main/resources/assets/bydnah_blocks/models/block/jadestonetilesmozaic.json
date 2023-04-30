@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/jadestone_tiles-mozaic",
+    "up": "bydnah_blocks:blocks/jadestone_tiles-mozaic",
+    "north": "bydnah_blocks:blocks/jadestone_tiles-mozaic",
+    "east": "bydnah_blocks:blocks/jadestone_tiles-mozaic",
+    "south": "bydnah_blocks:blocks/jadestone_tiles-mozaic",
+    "west": "bydnah_blocks:blocks/jadestone_tiles-mozaic",
+    "particle": "bydnah_blocks:blocks/jadestone_tiles-mozaic"
+  }
+}

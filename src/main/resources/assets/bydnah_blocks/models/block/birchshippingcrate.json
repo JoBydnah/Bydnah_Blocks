@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/birch_shippingcrate",
+    "up": "bydnah_blocks:blocks/birch_shippingcrate",
+    "north": "bydnah_blocks:blocks/birch_shippingcrate",
+    "east": "bydnah_blocks:blocks/birch_shippingcrate",
+    "south": "bydnah_blocks:blocks/birch_shippingcrate",
+    "west": "bydnah_blocks:blocks/birch_shippingcrate",
+    "particle": "bydnah_blocks:blocks/birch_shippingcrate"
+  }
+}

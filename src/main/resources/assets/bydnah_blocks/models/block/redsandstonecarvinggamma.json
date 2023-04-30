@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/scribbles-0-top",
+    "up": "bydnah_blocks:blocks/scribbles-0-top",
+    "north": "bydnah_blocks:blocks/redsandstone_gamma",
+    "east": "bydnah_blocks:blocks/redsandstone_gamma",
+    "south": "bydnah_blocks:blocks/redsandstone_gamma",
+    "west": "bydnah_blocks:blocks/redsandstone_gamma",
+    "particle": "bydnah_blocks:blocks/scribbles-0-top"
+  }
+}

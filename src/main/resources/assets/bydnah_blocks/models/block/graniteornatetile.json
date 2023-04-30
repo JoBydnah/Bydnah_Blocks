@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/granite_ornatetile",
+    "up": "bydnah_blocks:blocks/granite_ornatetile",
+    "north": "bydnah_blocks:blocks/granite_ornatetile",
+    "east": "bydnah_blocks:blocks/granite_ornatetile",
+    "south": "bydnah_blocks:blocks/granite_ornatetile",
+    "west": "bydnah_blocks:blocks/granite_ornatetile",
+    "particle": "bydnah_blocks:blocks/granite_ornatetile"
+  }
+}

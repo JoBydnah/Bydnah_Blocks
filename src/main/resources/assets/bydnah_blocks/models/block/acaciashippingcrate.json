@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/acacia_shippingcrate",
+    "up": "bydnah_blocks:blocks/acacia_shippingcrate",
+    "north": "bydnah_blocks:blocks/acacia_shippingcrate",
+    "east": "bydnah_blocks:blocks/acacia_shippingcrate",
+    "south": "bydnah_blocks:blocks/acacia_shippingcrate",
+    "west": "bydnah_blocks:blocks/acacia_shippingcrate",
+    "particle": "bydnah_blocks:blocks/acacia_shippingcrate"
+  }
+}

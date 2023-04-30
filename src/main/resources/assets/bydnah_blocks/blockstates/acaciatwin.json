@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bydnah_blocks:block/acaciatwin"
+    },
+    "facing=east": {
+      "model": "bydnah_blocks:block/acaciatwin",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bydnah_blocks:block/acaciatwin",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bydnah_blocks:block/acaciatwin",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "bydnah_blocks:block/acaciatwin",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "bydnah_blocks:block/acaciatwin",
+      "x": 90
+    }
+  }
+}

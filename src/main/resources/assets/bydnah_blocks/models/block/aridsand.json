@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/arid_sand",
+    "up": "bydnah_blocks:blocks/arid_sand",
+    "north": "bydnah_blocks:blocks/arid_sand",
+    "east": "bydnah_blocks:blocks/arid_sand",
+    "south": "bydnah_blocks:blocks/arid_sand",
+    "west": "bydnah_blocks:blocks/arid_sand",
+    "particle": "bydnah_blocks:blocks/arid_sand"
+  }
+}

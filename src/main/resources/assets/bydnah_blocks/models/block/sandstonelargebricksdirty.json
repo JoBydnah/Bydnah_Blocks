@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/sandstone_large_bricks_dirty",
+    "up": "bydnah_blocks:blocks/sandstone_large_bricks_dirty",
+    "north": "bydnah_blocks:blocks/sandstone_large_bricks_dirty",
+    "east": "bydnah_blocks:blocks/sandstone_large_bricks_dirty",
+    "south": "bydnah_blocks:blocks/sandstone_large_bricks_dirty",
+    "west": "bydnah_blocks:blocks/sandstone_large_bricks_dirty",
+    "particle": "bydnah_blocks:blocks/sandstone_large_bricks_dirty"
+  }
+}

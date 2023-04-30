@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bydnah_blocks:block/jadestone_cobble_slab"
+    },
+    "type=top": {
+      "model": "bydnah_blocks:block/jadestone_cobble_slab_top"
+    },
+    "type=double": {
+      "model": "bydnah_blocks:block/jadestone_cobble_slab_full"
+    }
+  }
+}

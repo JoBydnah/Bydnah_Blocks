@@ -4,5 +4,5 @@
   "ingredient": {
     "tag": "forge:sandstone"
   },
-  "result": "bydnah_blocks:sandstone_cobble"
+  "result": "bydnah_blocks:deleted_mod_element"
 }

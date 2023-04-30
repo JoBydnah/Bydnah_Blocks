@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_open",
+  "textures": {
+    "texture": "bydnah_blocks:blocks/rusty_trapdoor",
+    "particle": "bydnah_blocks:blocks/rusty_trapdoor"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/uranium_crate",
+    "up": "bydnah_blocks:blocks/uranium_crate",
+    "north": "bydnah_blocks:blocks/uranium_crate",
+    "east": "bydnah_blocks:blocks/uranium_crate",
+    "south": "bydnah_blocks:blocks/uranium_crate",
+    "west": "bydnah_blocks:blocks/uranium_crate",
+    "particle": "bydnah_blocks:blocks/uranium_crate"
+  }
+}

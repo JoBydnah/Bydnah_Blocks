@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/arid_sandstone_chaotic",
+    "up": "bydnah_blocks:blocks/arid_sandstone_chaotic",
+    "north": "bydnah_blocks:blocks/arid_sandstone_chaotic",
+    "east": "bydnah_blocks:blocks/arid_sandstone_chaotic",
+    "south": "bydnah_blocks:blocks/arid_sandstone_chaotic",
+    "west": "bydnah_blocks:blocks/arid_sandstone_chaotic",
+    "particle": "bydnah_blocks:blocks/arid_sandstone_chaotic"
+  }
+}
