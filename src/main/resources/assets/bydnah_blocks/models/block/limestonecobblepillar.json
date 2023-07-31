@@ -1,0 +1,7 @@
+{
+  "parent": "bydnah_blocks:custom/pillar_block",
+  "textures": {
+    "all": "bydnah_blocks:blocks/limestone_cobble",
+    "particle": "bydnah_blocks:blocks/limestone_cobble"
+  }
+}

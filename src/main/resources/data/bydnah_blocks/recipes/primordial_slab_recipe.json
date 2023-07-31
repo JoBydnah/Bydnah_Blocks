@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "bydnah_blocks:primordial_planks"
+    },
+    "1": {
+      "item": "bydnah_blocks:primordial_planks"
+    },
+    "2": {
+      "item": "bydnah_blocks:primordial_planks"
+    }
+  },
+  "result": {
+    "item": "bydnah_blocks:primordial_slab",
+    "count": 6
+  }
+}

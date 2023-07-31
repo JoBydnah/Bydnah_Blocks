@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "orichalcum_sword",
+    "customModelName": "Normal",
+    "name": "Orichalcum Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 8,
+    "efficiency": 13.0,
+    "attackSpeed": 1.0,
+    "enchantability": 53,
+    "damageVsEntity": 8.0,
+    "usageCount": 1620,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:OrichalcumIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

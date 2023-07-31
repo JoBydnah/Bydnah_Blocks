@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "bydnah_blocks:block/primordial_pressure_plate"
+    },
+    "powered=true": {
+      "model": "bydnah_blocks:block/primordial_pressure_plate_down"
+    }
+  }
+}

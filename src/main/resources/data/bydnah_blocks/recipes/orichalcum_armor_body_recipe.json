@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "bydnah_blocks:orichalcum_ingot"
+    },
+    "2": {
+      "item": "bydnah_blocks:orichalcum_ingot"
+    },
+    "3": {
+      "item": "bydnah_blocks:orichalcum_ingot"
+    },
+    "4": {
+      "item": "bydnah_blocks:orichalcum_ingot"
+    },
+    "5": {
+      "item": "bydnah_blocks:orichalcum_ingot"
+    },
+    "6": {
+      "item": "bydnah_blocks:orichalcum_ingot"
+    },
+    "7": {
+      "item": "bydnah_blocks:orichalcum_ingot"
+    },
+    "8": {
+      "item": "bydnah_blocks:orichalcum_ingot"
+    }
+  },
+  "result": {
+    "item": "bydnah_blocks:orichalcum_armor_chestplate",
+    "count": 1
+  }
+}

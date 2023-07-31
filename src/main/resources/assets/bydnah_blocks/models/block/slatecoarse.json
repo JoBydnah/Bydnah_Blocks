@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/slate_coarse",
+    "up": "bydnah_blocks:blocks/slate_coarse",
+    "north": "bydnah_blocks:blocks/slate_coarse",
+    "east": "bydnah_blocks:blocks/slate_coarse",
+    "south": "bydnah_blocks:blocks/slate_coarse",
+    "west": "bydnah_blocks:blocks/slate_coarse",
+    "particle": "bydnah_blocks:blocks/slate_coarse"
+  }
+}

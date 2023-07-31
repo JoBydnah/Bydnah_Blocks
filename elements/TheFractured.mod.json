@@ -1,0 +1,67 @@
+{
+  "_fv": 34,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:FracturedPlains"
+      },
+      {
+        "value": "CUSTOM:FracturedDesert"
+      },
+      {
+        "value": "CUSTOM:FracturedForrest"
+      },
+      {
+        "value": "CUSTOM:FracturedMycelialIslands"
+      },
+      {
+        "value": "CUSTOM:FracturedFrozenIslands"
+      },
+      {
+        "value": "CUSTOM:FracturedJungle"
+      },
+      {
+        "value": "CUSTOM:FracturedMeadows"
+      },
+      {
+        "value": "CUSTOM:FracturedPrimordialForrest"
+      }
+    ],
+    "worldGenType": "End like gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Jadestone"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "airColor": {
+      "value": -6684775,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "CUSTOM:Jadestoneportalframe"
+    },
+    "portalParticles": {
+      "value": "CUSTOM:Fracturedportalparticle"
+    },
+    "portalLuminance": 8,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Fractured Portal Scroll",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "portal_scroll",
+    "portalTexture": "fractured_portal",
+    "enablePortal": true
+  }
+}

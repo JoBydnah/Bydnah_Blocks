@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/slate_road",
+    "up": "bydnah_blocks:blocks/slate_road",
+    "north": "bydnah_blocks:blocks/slate_road",
+    "east": "bydnah_blocks:blocks/slate_road",
+    "south": "bydnah_blocks:blocks/slate_road",
+    "west": "bydnah_blocks:blocks/slate_road",
+    "particle": "bydnah_blocks:blocks/slate_road"
+  }
+}

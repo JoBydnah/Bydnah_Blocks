@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/limestone",
+    "up": "bydnah_blocks:blocks/limestone_panel",
+    "north": "bydnah_blocks:blocks/limestone_fancy_blank",
+    "east": "bydnah_blocks:blocks/limestone_fancy_blank",
+    "south": "bydnah_blocks:blocks/limestone_fancy_blank",
+    "west": "bydnah_blocks:blocks/limestone_fancy_blank",
+    "particle": "bydnah_blocks:blocks/limestone"
+  }
+}

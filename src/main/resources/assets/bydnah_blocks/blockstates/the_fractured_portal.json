@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "bydnah_blocks:block/the_fractured_portal_ew"
+    },
+    "axis=x": {
+      "model": "bydnah_blocks:block/the_fractured_portal_ns"
+    }
+  }
+}

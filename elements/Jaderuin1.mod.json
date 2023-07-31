@@ -1,0 +1,26 @@
+{
+  "_fv": 34,
+  "_type": "structure",
+  "definition": {
+    "structure": "jaderuin1",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 50000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "CUSTOM:TheFractured"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.GRASS"
+      }
+    ],
+    "restrictionBiomes": [],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

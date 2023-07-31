@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 2.6599999999999997,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "bydnah_blocks:orichalcum_ore"
+  },
+  "result": {
+    "item": "bydnah_blocks:orichalcum_ingot"
+  }
+}

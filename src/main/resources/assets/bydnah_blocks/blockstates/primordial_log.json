@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "bydnah_blocks:block/primordial_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "bydnah_blocks:block/primordial_log"
+    },
+    "axis=z": {
+      "model": "bydnah_blocks:block/primordial_log",
+      "x": 90
+    }
+  }
+}

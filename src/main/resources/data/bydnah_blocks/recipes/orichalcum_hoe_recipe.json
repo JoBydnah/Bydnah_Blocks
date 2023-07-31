@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "bydnah_blocks:orichalcum_ingot"
+    },
+    "1": {
+      "item": "bydnah_blocks:orichalcum_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "bydnah_blocks:orichalcum_hoe",
+    "count": 1
+  }
+}

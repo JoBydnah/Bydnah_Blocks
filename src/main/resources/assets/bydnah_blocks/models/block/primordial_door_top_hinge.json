@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "bydnah_blocks:blocks/primordial_planks",
+    "top": "bydnah_blocks:blocks/primordial_planks"
+  }
+}

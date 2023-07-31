@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/jasper",
+    "up": "bydnah_blocks:blocks/jasper",
+    "north": "bydnah_blocks:blocks/jasper",
+    "east": "bydnah_blocks:blocks/jasper",
+    "south": "bydnah_blocks:blocks/jasper",
+    "west": "bydnah_blocks:blocks/jasper",
+    "particle": "bydnah_blocks:blocks/jasper"
+  }
+}

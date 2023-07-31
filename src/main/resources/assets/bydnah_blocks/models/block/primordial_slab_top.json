@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "bydnah_blocks:blocks/primordial_planks",
+    "top": "bydnah_blocks:blocks/primordial_planks",
+    "side": "bydnah_blocks:blocks/primordial_planks"
+  }
+}

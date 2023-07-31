@@ -123,17 +123,23 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
-    "spawnWorldTypes": [],
-    "restrictionBiomes": [],
+    "spawnWorldTypes": [
+      "CUSTOM:TheFractured"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:FracturedDesert"
+      }
+    ],
     "blocksToReplace": [
       {
-        "value": "Blocks.STONE"
+        "value": "Blocks.SAND#0"
       }
     ],
     "generationShape": "UNIFORM",
-    "frequencyPerChunks": 10,
-    "frequencyOnChunk": 16,
+    "frequencyPerChunks": 30,
+    "frequencyOnChunk": 30,
     "minGenerateHeight": 0,
-    "maxGenerateHeight": 64
+    "maxGenerateHeight": 100
   }
 }

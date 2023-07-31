@@ -1,0 +1,21 @@
+{
+	"parent": "minecraft:block/block",
+	"textures": {
+		"particle": "#all"
+	},
+	"elements": [
+		{
+			"name": "pillar",
+			"from": [3, 0, 3],
+			"to": [13, 16, 13],
+			"faces": {
+				"north": {"uv": [3, 0, 13, 16], "texture": "#all"},
+				"east": {"uv": [6, 0, 16, 16], "texture": "#all"},
+				"south": {"uv": [3, 0, 13, 16], "texture": "#all"},
+				"west": {"uv": [6, 0, 16, 16], "texture": "#all"},
+				"up": {"uv": [3, 6, 13, 16], "texture": "#all"},
+				"down": {"uv": [2, 2, 12, 12], "texture": "#all"}
+			}
+		}
+	]
+}

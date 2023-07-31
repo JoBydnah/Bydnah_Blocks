@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "bydnah_blocks:jadestone_logo"
+    },
+    "title": {
+      "translate": "advancements.adv_enter_the_fractured.title"
+    },
+    "description": {
+      "translate": "advancements.adv_enter_the_fractured.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_enter_the_fractured": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "bydnah_blocks:the_fractured"
+      }
+    }
+  },
+  "parent": "bydnah_blocks:adv_the_scroll"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:ink_sac"
+    },
+    "1": {
+      "item": "bydnah_blocks:jade"
+    },
+    "2": {
+      "item": "minecraft:ink_sac"
+    },
+    "3": {
+      "item": "bydnah_blocks:blue_john"
+    },
+    "4": {
+      "item": "minecraft:paper"
+    },
+    "5": {
+      "item": "bydnah_blocks:blue_john"
+    },
+    "6": {
+      "item": "minecraft:ink_sac"
+    },
+    "7": {
+      "item": "bydnah_blocks:jade"
+    },
+    "8": {
+      "item": "minecraft:ink_sac"
+    }
+  },
+  "result": {
+    "item": "bydnah_blocks:the_fractured",
+    "count": 1
+  }
+}

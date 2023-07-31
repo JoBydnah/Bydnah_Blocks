@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "bydnah_blocks:block/jadestone_cobble_pillar",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "bydnah_blocks:block/jadestone_cobble_pillar"
+    },
+    "axis=z": {
+      "model": "bydnah_blocks:block/jadestone_cobble_pillar",
+      "x": 90
+    }
+  }
+}

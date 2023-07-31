@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "bydnah_blocks:bydnahrite_ingot"
+    },
+    "2": {
+      "item": "bydnah_blocks:bydnahrite_ingot"
+    },
+    "3": {
+      "item": "bydnah_blocks:bydnahrite_ingot"
+    },
+    "5": {
+      "item": "bydnah_blocks:bydnahrite_ingot"
+    }
+  },
+  "result": {
+    "item": "bydnah_blocks:bydnahrite_armor_boots",
+    "count": 1
+  }
+}

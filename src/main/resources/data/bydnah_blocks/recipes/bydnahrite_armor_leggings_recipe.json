@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "bydnah_blocks:bydnahrite_ingot"
+    },
+    "1": {
+      "item": "bydnah_blocks:bydnahrite_ingot"
+    },
+    "2": {
+      "item": "bydnah_blocks:bydnahrite_ingot"
+    },
+    "3": {
+      "item": "bydnah_blocks:bydnahrite_ingot"
+    },
+    "5": {
+      "item": "bydnah_blocks:bydnahrite_ingot"
+    },
+    "6": {
+      "item": "bydnah_blocks:bydnahrite_ingot"
+    },
+    "8": {
+      "item": "bydnah_blocks:bydnahrite_ingot"
+    }
+  },
+  "result": {
+    "item": "bydnah_blocks:bydnahrite_armor_leggings",
+    "count": 1
+  }
+}

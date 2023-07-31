@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "bydnah_blocks:block/primordial_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "bydnah_blocks:block/primordial_wood"
+    },
+    "axis=z": {
+      "model": "bydnah_blocks:block/primordial_wood",
+      "x": 90
+    }
+  }
+}

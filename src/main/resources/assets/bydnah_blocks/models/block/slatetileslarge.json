@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/slate_tiles-large",
+    "up": "bydnah_blocks:blocks/slate_tiles-large",
+    "north": "bydnah_blocks:blocks/slate_tiles-large",
+    "east": "bydnah_blocks:blocks/slate_tiles-large",
+    "south": "bydnah_blocks:blocks/slate_tiles-large",
+    "west": "bydnah_blocks:blocks/slate_tiles-large",
+    "particle": "bydnah_blocks:blocks/slate_tiles-large"
+  }
+}

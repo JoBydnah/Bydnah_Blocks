@@ -1,0 +1,24 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Aridsand"
+      },
+      {
+        "value": "CUSTOM:Rockysand"
+      },
+      {
+        "value": "CUSTOM:Aridrockysand"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "sand",
+    "namespace": "minecraft"
+  }
+}

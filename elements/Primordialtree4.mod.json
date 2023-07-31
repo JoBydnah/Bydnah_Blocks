@@ -1,0 +1,30 @@
+{
+  "_fv": 34,
+  "_type": "structure",
+  "definition": {
+    "structure": "primordialtree4",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 100000,
+    "minCountPerChunk": 5,
+    "maxCountPerChunk": 5,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "CUSTOM:TheFractured"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.GRASS"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:FracturedPrimordialForrest"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

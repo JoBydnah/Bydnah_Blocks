@@ -18,7 +18,7 @@ public class BydnahBlocksItemGroup extends BydnahBlocksModElements.ModElement {
 
 	@Override
 	public void initElements() {
-		tab = new ItemGroup("tabbydnah_blocks") {
+		tab = new ItemGroup("tabbydnah_tab_block") {
 			@OnlyIn(Dist.CLIENT)
 			@Override
 			public ItemStack createIcon() {

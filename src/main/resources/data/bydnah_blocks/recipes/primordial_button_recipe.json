@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bydnah_blocks:primordial_planks"
+    }
+  ],
+  "result": {
+    "item": "bydnah_blocks:primordial_button",
+    "count": 1
+  }
+}

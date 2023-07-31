@@ -1,0 +1,24 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Aridsand"
+      },
+      {
+        "value": "CUSTOM:Aridrockysand"
+      },
+      {
+        "value": "CUSTOM:Rockysand"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "sand",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_fv": 34,
+  "_type": "particle",
+  "definition": {
+    "texture": "portal_effect.png",
+    "animate": true,
+    "frameDuration": 2,
+    "width": 0.2,
+    "height": 0.2,
+    "scale": 1.0,
+    "speedFactor": -0.8,
+    "gravity": -0.8,
+    "maxAge": 4,
+    "maxAgeDiff": 1,
+    "angularVelocity": -0.8,
+    "angularAcceleration": -0.8,
+    "canCollide": false,
+    "alwaysShow": true,
+    "renderType": "OPAQUE"
+  }
+}

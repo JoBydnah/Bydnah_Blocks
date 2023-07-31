@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:primordial_log"
+    }
+  ],
+  "result": {
+    "item": "bydnah_blocks:primordial_planks",
+    "count": 4
+  }
+}

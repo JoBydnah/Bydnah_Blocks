@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/redrock",
+    "up": "bydnah_blocks:blocks/redrock",
+    "north": "bydnah_blocks:blocks/redrock_sandstone_carving-blank",
+    "east": "bydnah_blocks:blocks/redrock_sandstone_carving-blank",
+    "south": "bydnah_blocks:blocks/redrock_sandstone_carving-blank",
+    "west": "bydnah_blocks:blocks/redrock_sandstone_carving-blank",
+    "particle": "bydnah_blocks:blocks/redrock"
+  }
+}

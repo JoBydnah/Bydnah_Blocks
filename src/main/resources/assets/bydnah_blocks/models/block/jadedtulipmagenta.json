@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "bydnah_blocks:blocks/magenta_tulip",
+    "particle": "bydnah_blocks:blocks/magenta_tulip"
+  }
+}

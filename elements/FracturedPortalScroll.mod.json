@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.DYE#0"
+      },
+      {
+        "value": "CUSTOM:Jade"
+      },
+      {
+        "value": "Items.DYE#0"
+      },
+      {
+        "value": "CUSTOM:BlueJohn"
+      },
+      {
+        "value": "Items.PAPER"
+      },
+      {
+        "value": "CUSTOM:BlueJohn"
+      },
+      {
+        "value": "Items.DYE#0"
+      },
+      {
+        "value": "CUSTOM:Jade"
+      },
+      {
+        "value": "Items.DYE#0"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TheFractured"
+    },
+    "name": "fractured_portal_scroll",
+    "namespace": "mod"
+  }
+}

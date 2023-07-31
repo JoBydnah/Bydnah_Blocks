@@ -1,0 +1,57 @@
+{
+  "variants": {
+    "face=floor,facing=north": {
+      "model": "bydnah_blocks:block/limestonepillar"
+    },
+    "face=floor,facing=east": {
+      "model": "bydnah_blocks:block/limestonepillar",
+      "y": 90
+    },
+    "face=floor,facing=south": {
+      "model": "bydnah_blocks:block/limestonepillar",
+      "y": 180
+    },
+    "face=floor,facing=west": {
+      "model": "bydnah_blocks:block/limestonepillar",
+      "y": 270
+    },
+    "face=wall,facing=north": {
+      "model": "bydnah_blocks:block/limestonepillar",
+      "x": 90
+    },
+    "face=wall,facing=east": {
+      "model": "bydnah_blocks:block/limestonepillar",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south": {
+      "model": "bydnah_blocks:block/limestonepillar",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west": {
+      "model": "bydnah_blocks:block/limestonepillar",
+      "x": 90,
+      "y": 270
+    },
+    "face=ceiling,facing=north": {
+      "model": "bydnah_blocks:block/limestonepillar",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=east": {
+      "model": "bydnah_blocks:block/limestonepillar",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=south": {
+      "model": "bydnah_blocks:block/limestonepillar",
+      "x": 180
+    },
+    "face=ceiling,facing=west": {
+      "model": "bydnah_blocks:block/limestonepillar",
+      "x": 180,
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bydnah_blocks:blocks/slate_twin_top",
+    "up": "bydnah_blocks:blocks/slate_twin_top",
+    "north": "bydnah_blocks:blocks/slate_ornate",
+    "east": "bydnah_blocks:blocks/slate_ornate",
+    "south": "bydnah_blocks:blocks/slate_ornate",
+    "west": "bydnah_blocks:blocks/slate_ornate",
+    "particle": "bydnah_blocks:blocks/slate_twin_top"
+  }
+}

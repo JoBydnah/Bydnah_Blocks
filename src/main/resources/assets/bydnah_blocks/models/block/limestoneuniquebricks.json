@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bydnah_blocks:blocks/limestone_unique_bricks",
+    "particle": "bydnah_blocks:blocks/limestone_unique_bricks"
+  }
+}

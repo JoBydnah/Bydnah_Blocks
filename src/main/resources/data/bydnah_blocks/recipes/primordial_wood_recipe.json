@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "bydnah_blocks:primordial_log"
+    },
+    "1": {
+      "item": "bydnah_blocks:primordial_log"
+    },
+    "2": {
+      "item": "bydnah_blocks:primordial_log"
+    },
+    "3": {
+      "item": "bydnah_blocks:primordial_log"
+    }
+  },
+  "result": {
+    "item": "bydnah_blocks:primordial_wood",
+    "count": 3
+  }
+}

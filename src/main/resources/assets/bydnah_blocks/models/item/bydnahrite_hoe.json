@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "bydnah_blocks:items/bydnahrite_hoe"
+  }
+}

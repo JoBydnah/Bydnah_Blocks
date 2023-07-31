@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "bydnah_blocks:primordial_planks"
+    },
+    "3": {
+      "item": "bydnah_blocks:primordial_planks"
+    },
+    "4": {
+      "item": "bydnah_blocks:primordial_planks"
+    },
+    "6": {
+      "item": "bydnah_blocks:primordial_planks"
+    },
+    "7": {
+      "item": "bydnah_blocks:primordial_planks"
+    },
+    "8": {
+      "item": "bydnah_blocks:primordial_planks"
+    }
+  },
+  "result": {
+    "item": "bydnah_blocks:primordial_stairs",
+    "count": 4
+  }
+}
